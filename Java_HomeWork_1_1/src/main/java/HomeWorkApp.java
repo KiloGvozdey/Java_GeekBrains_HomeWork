@@ -25,7 +25,7 @@ public class HomeWorkApp {
         else System.out.println("Зелёный");
     }
     static void compareNumbers(){
-        int a = 8, b = 14;
+        int a = 9, b = 14;
         if(a >= b) System.out.println("a >= b");
         else System.out.println("a < b");
     }
